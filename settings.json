@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "smpsi.aternos.me,
+    "ip": "smpsi.aternos.me",
     "port": 45776,
     "version": "",
     "try-creative": false
