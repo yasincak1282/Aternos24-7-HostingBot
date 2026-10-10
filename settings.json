@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sriveskyblk.aternos.me:13859",
-    "port": 13859,
+    "ip": "smpsi.aternos.me,
+    "port": 45776,
     "version": "",
     "try-creative": false
   },
